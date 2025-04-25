@@ -31,3 +31,21 @@ This is inspired by Meth-Meth-Method's [super mario game](https://github.com/met
 
 If you have any Improvements/Ideas/Refactors feel free to contact me or make a Pull Request.
 The code needs still alot of refactoring as it is right now, so I appreciate any kind of Contribution.
+
+
+# Section 44: Day 44: App 12 - Code Review: The Mario Game
+
+## 363. Programming Tool of the Day: Collaborating
+
+### Keynotes
+
+1. Provided the github repository
+https://github.com/arditsulceteaching/super-mario-python
+2. Fork this repository to my github account
+3. Clone the forked repository to my local IDE
+4. Do some changes
+5. Commit and push the changes to my repository
+6. Create Pull Request of the commit(s) to notify the
+other user to review and approve the changes
+7. For smaller teams just clone the repository and
+commit/push the changes directly to the repository.
