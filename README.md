@@ -49,3 +49,22 @@ https://github.com/arditsulceteaching/super-mario-python
 other user to review and approve the changes
 7. For smaller teams just clone the repository and
 commit/push the changes directly to the repository.
+
+
+## 364. Setting up the Project Locally
+
+### Keynotes
+
+1. Install the list of requirements mentioned in the file
+_requirements.txt_
+2. via command line
+`pip install -r requirements.txt`
+3. An error thrown:
+  error: subprocess-exited-with-error
+  
+  × python setup.py egg_info did not run successfully.
+  │ exit code: 1
+  ╰─> [33 lines of output]
+...
+4. The dependencies are installed from the IDE successfully.
+Installed packages: 'pygame==2.1.2', 'scipy==1.9.3'
