@@ -68,3 +68,35 @@ _requirements.txt_
 ...
 4. The dependencies are installed from the IDE successfully.
 Installed packages: 'pygame==2.1.2', 'scipy==1.9.3'
+
+
+## 365. Inspecting the Project Structure
+
+### Keynotes
+
+1. _compile.py_
+convert the Python project into an executable
+2. _main.py_
+the entry point of the program
+3. _requirements.txt_
+contains the required libraries to be installed
+4. _settings.json_
+contains some general settings about the game, e.g. sound effect, music on/off
+5. folder: _classes_
+each class in a single file for readability a.s.o
+file name is the class name
+6. folder: _entities_
+similar as classes
+7. suggestions: 
+a. classes and entities file names to be in lowercase
+b. the folders' names to be renamed in some more specific meaning
+8. folder: _img_
+it contains the images are stored
+9. folder: _levels_
+it contains the data in json files. Reflect to the level of the game
+10. folder: _sfx_
+it contains the sound/audio files are located
+11. folder: _sprites_
+it contains images with data, e.g. background tiles
+12. folder: _traits_
+it contains the features that a player gets, e.g. jump higher
