@@ -100,3 +100,15 @@ it contains the sound/audio files are located
 it contains images with data, e.g. background tiles
 12. folder: _traits_
 it contains the features that a player gets, e.g. jump higher
+
+
+## 366. Inspecting the Code
+
+### Keynotes
+
+1. inspect the _main.py_
+2. the code is contained in the function _main()_ when the file is executed directly
+3. To discover from where a method is called from the drop-down menu select:
+_Find Usages_ and follow the chain of calls
+4. Also, after _Find Usages_ click on the _Call Hierarchy_, and in reverse order
+5. In a file, class, choose the _Structure_ tool to inspect it.
